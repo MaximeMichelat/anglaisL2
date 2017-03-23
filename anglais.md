@@ -84,6 +84,12 @@ In october 2016, physicians from UC Berkeley published a paper in *Science* in w
 \pagebreak
 
 #\... and the complications they raise
+##Ethical questions
+
+[Science based medicine](https://sciencebasedmedicine.org/crispr-and-the-ethics-of-gene-editing/)
+
+##The medical issues
+
 ##The legislation in the European Union
 ###GMOs
 As of now, the European Union law regarding Genetically Modified Organisms aims to ensure tracability, clear labelling and to protect the environement, as well as human and animal health.
@@ -98,8 +104,4 @@ By comparison, the vast majority of food in the United States comes from genetic
 
 The EU allows genetic research and manipulations as long as the *scientific validity* and the *clinical validity* criteria are met.
 
-##Ethical questions
 
-[Science based medicine](https://sciencebasedmedicine.org/crispr-and-the-ethics-of-gene-editing/)
-
-##The medical issues
