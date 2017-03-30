@@ -1,6 +1,6 @@
 ---
 title: Genetic manipulations
-author: 
+author:
 - Arthur JUNG 
 - Maxime MICHELAT
 - Mickael BAUER
@@ -25,19 +25,23 @@ We decided that we should work on one or more subjects, such as:
 ##A short history of
 ###How DNA works
 
+DNA is the basic genetic material, that gives rise to our traits, like eye color or height, and that is located inside the core of all our cells.
+In order for the traits to be expressed, DNA must first be transcripted into RNA which is then in turn transcripted into proteins.
+Those proteins then leave the cells and carry on their messenger duty to transmit informations to other parts of the body.
+Hormones, like insulin or testosterone for example are proteins.
+
 ![Picture of DNA](DNA.jpg)
 
 ###Genetic manipulations
 
-Blablabla.
-Gene manipulation started as early as ... B.C.. 
-The first men understood that some traits were passed from parents to children.
-This knowledge was used by ancient civilizations through interspecies breeding to create new crop strains to make them more edible, or increase the productivity.
+Gene manipulation on plants started with agriculture as early as 10,000 B.C.[^PB], with the farmers simply selecting plants with the most desirable traits.
+This knowledge was used by ancient civilizations through interspecies breeding to create new crop strains with better qualities such as increased yield, increased tolerance, and even longer storage period.
 
 Indeed, science grew a lot since then, and ever since the start of molecular genetics, this field amazed by the many applications in the real world and the problems they could solve, and even though such applications failed to come to use quickly, we are still getting closer and closer to the day we can genetically engineer human beings.
 
 Quite recently, the discovery by Emmanuelle Charpentier and Jennifer Doudna of CRISPR[^crispr]/Cas9, a relatively easy-to-use and cheap tool for editing DNA should allow for easier and more efficient research.
 
+[^PB]: [https://en.wikipedia.org/wiki/Plant\_breeding](https://en.wikipedia.org/wiki/Plant_breeding)
 [^crispr]: [https://en.wikipedia.org/wiki/CRISPR](https://en.wikipedia.org/wiki/CRISPR)
 
 ###DNA sequencing
