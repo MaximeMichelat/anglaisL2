@@ -2,8 +2,8 @@
 title: Genetic manipulations
 author: 
 - Arthur JUNG 
-- Maxime MICHELAT 
-- Mickaël BAUER
+- Maxime MICHELAT
+- Mickaël BAUE
 ...
 
 \pagebreak
@@ -23,9 +23,15 @@ We decided that we should work on one or more subjects, such as:
   - And all the problems that come along with all that
 
 ##A short history of
+###How DNA works
+
+![Picture of DNA](DNA.jpg)
+
 ###Genetic manipulations
 
-Gene editing is an ancient technique, the first men understood that some traits were passed from parents to children.
+Blablabla.
+Gene manipulation started as early as ... B.C.. 
+The first men understood that some traits were passed from parents to children.
 This knowledge was used by ancient civilizations through interspecies breeding to create new crop strains to make them more edible, or increase the productivity.
 
 Indeed, science grew a lot since then, and ever since the start of molecular genetics, this field amazed by the many applications in the real world and the problems they could solve, and even though such applications failed to come to use quickly, we are still getting closer and closer to the day we can genetically engineer human beings.
