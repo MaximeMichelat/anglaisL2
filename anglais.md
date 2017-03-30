@@ -3,7 +3,7 @@ title: Genetic manipulations
 author: 
 - Arthur JUNG 
 - Maxime MICHELAT
-- Mickaël BAUE
+- Mickaël BAUR
 ...
 
 \pagebreak
