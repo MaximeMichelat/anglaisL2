@@ -3,7 +3,7 @@ title: Genetic manipulations
 author:
 - Arthur JUNG 
 - Maxime MICHELAT
-- Mickael BAUER
+- Mickaël BAUER
 ...
 
 \pagebreak
@@ -30,7 +30,7 @@ In order for the traits to be expressed, DNA must first be transcripted into RNA
 Those proteins then leave the cells and carry on their messenger duty to transmit informations to other parts of the body.
 Hormones, like insulin or testosterone for example are proteins.
 
-![Picture of DNA](DNA.jpg)
+![Picture of DNA](DNA.jpg){ width=100% }
 
 ###Genetic manipulations
 
@@ -96,9 +96,19 @@ In october 2016, physicians from UC Berkeley published a paper in *Science* in w
 #\... and the complications they raise
 ##Ethical questions
 
+Genome editing techniques might help us cure diseases in the future, but some concerns are growing over what humans will do of it.
+It has come to attention that these techniques could also be applied to "treat" unwanted physical characteristics that are in no way harmful.
+The first examples that come to mind are eye color, height, of physical strength, but genetic engineering could also alter DNA out of the scope of human genetic variability, by creating new eye colors (like purple).
+This raises the question of how to use DNA altering tools on criteria as subjective as physical appearance.
+Of course, we could edit one's genome to make them more physically attractive if they suffer malformations for example.
+
+All this means we have to draw the line somewhere, and the obvious tool to do that is indeed legislation.
+
 [Science based medicine](https://sciencebasedmedicine.org/crispr-and-the-ethics-of-gene-editing/)
 
 ##The medical issues
+
+
 
 ##The legislation in the European Union
 ###GMOs
