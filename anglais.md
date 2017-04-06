@@ -30,7 +30,7 @@ In order for the traits to be expressed, DNA must first be transcripted into RNA
 Those proteins then leave the cells and carry on their messenger duty to transmit informations to other parts of the body.
 Hormones, like insulin or testosterone for example are proteins.
 
-![Picture of DNA](DNA.jpg){ width=100% }
+![Picture of DNA](DNA.jpg)
 
 ###Genetic manipulations
 
@@ -73,21 +73,32 @@ More than ever, bioethics debates should take place, in order to prevent misuse 
 For 20 years, the James Lab (University of California) tried to create malaria-resistant mosquitoes, with a success rate of about 50%.
 In 2015, 2 San Diego scientists, Ethan Bier and Valentino Gantz announced a new method for generating mutations on both copies of a gene in fruit flies.
 The mutations were then passed on to 95% of the flies' offspring.
-Combining the two techniques, a collaboration of both teams succeeded in creating malaria-resistant mosquitoes that pass on this ability to 99.5% of said mosquitoes' offspring.
-
-See the article : [https://news.uci.edu/research/university-of-california-scientists-create-malaria-blocking-mosquitoes/](https://news.uci.edu/research/university-of-california-scientists-create-malaria-blocking-mosquitoes/).
+Combining the two techniques, a collaboration of both teams succeeded in creating malaria-resistant mosquitoes that pass on this ability to 99.5% of said mosquitoes' offspring[^malaria].
 
 With more than 200 million people infected, according the World Health Organization, this technique, if used outside a laboratory could relieve the pain of poor countries with little to no medical supplies, especially on the african continent.
 And this technique doesn't only apply to mosquitoes, it could be used to eliminate other disease vectors like yellow fever.
 
+[^malaria]: [https://news.uci.edu/research/university-of-california-scientists-create-malaria-blocking-mosquitoes/](https://news.uci.edu/research/university-of-california-scientists-create-malaria-blocking-mosquitoes/).
+
 ##Curing diseases
 
-In october 2016, physicians from UC Berkeley published a paper in *Science* in which they claim to have found a preliminary technique involving gene editing in stem cells in order to cure sickle cell disease.
+In october 2016, physicians from UC Berkeley, led by Mark DeWitt published a paper in *Science* in which they claim to have found a preliminary technique involving gene editing in stem cells in order to cure sickle cell disease.[^scdcure][^scdcure2]
+Sickle cell diseases causes blood cells, that are produced in bone marrow, to have a "C" shape and be less flexible than regular blood cells.
+The conventionnal treatment to SCD involves bone marrow transplant, and chemotherapy, to supress one's immune system, followed by immunosupressant drugs, to reduce the risk that the body rejects the foreign tissue.
+This, of course, makes the treatment very heavy and hard to achieve, as one must, in addition wait for a compatible bone marrow donor, and then undergo a dangerous and painful surgery.
 
-[Voir ce truc](http://www.latimes.com/science/sciencenow/la-sci-sn-crispr-sickle-cell-20161012-snap-story.html#)
-[Sickle cell cure](http://news.berkeley.edu/2016/10/12/genome-engineering-paves-way-for-sickle-cell-cure/)
+That's where genetic engineering comes to play.
+SCD is caused by a recessive mutation affecting a single nucleotide present on both copies of a gene coding for beta-globin, and although DeWitt's team's success will have to be improved, correcting this mutation using genetic tools could prove much an easier, cheaper and safer way to cure SCD.
+
+Again, curing SCD is but an example of what can be achieved through genetic manipulations
+
+[^scdcure]: [http://www.latimes.com/science/sciencenow/la-sci-sn-crispr-sickle-cell-20161012-snap-story.html#](http://www.latimes.com/science/sciencenow/la-sci-sn-crispr-sickle-cell-20161012-snap-story.html#)
+[^scdcure2]: [http://news.berkeley.edu/2016/10/12/genome-engineering-paves-way-for-sickle-cell-cure/](http://news.berkeley.edu/2016/10/12/genome-engineering-paves-way-for-sickle-cell-cure/)
 
 ##Improving mankind
+
+Transhumanism is a movement that aims to take advantage of the advancement of technology, like information technology, genetic engineering and artificial intelligence, to enhance the human condition and the human organism.
+
 
 [Au pif](http://www.nature.com/news/chinese-scientists-genetically-modify-human-embryos-1.17378)
 
@@ -96,7 +107,7 @@ In october 2016, physicians from UC Berkeley published a paper in *Science* in w
 #\... and the complications they raise
 ##Ethical questions
 
-Genome editing techniques might help us cure diseases in the future, but some concerns are growing over what humans will do of it.
+Genome editing techniques might help us cure diseases in the future, but some concerns are growing over what humans will do of it[^ethical].
 It has come to attention that these techniques could also be applied to "treat" unwanted physical characteristics that are in no way harmful.
 The first examples that come to mind are eye color, height, of physical strength, but genetic engineering could also alter DNA out of the scope of human genetic variability, by creating new eye colors (like purple).
 This raises the question of how to use DNA altering tools on criteria as subjective as physical appearance.
@@ -104,18 +115,23 @@ Of course, we could edit one's genome to make them more physically attractive if
 
 All this means we have to draw the line somewhere, and the obvious tool to do that is indeed legislation.
 
-[Science based medicine](https://sciencebasedmedicine.org/crispr-and-the-ethics-of-gene-editing/)
+[^ethical]: [https://sciencebasedmedicine.org/crispr-and-the-ethics-of-gene-editing/](https://sciencebasedmedicine.org/crispr-and-the-ethics-of-gene-editing/)
 
-##The medical issues
+##The social issues
+
+As discussed before, future parents wanting their child's life to be a little easier may choose genetic enhancements that makes the child taller, for example.
+Indeed, being tall is seen as advantageous and evidence show that taller men earn more money and are more physically able[^social].
 
 
+[^cancertall]: [https://www.theguardian.com/society/2015/oct/01/taller-people-more-likely-to-get-cancer-say-researchers](https://www.theguardian.com/society/2015/oct/01/taller-people-more-likely-to-get-cancer-say-researchers)
+[^social]: [http://www.nickbostrom.com/ethics/genetic.html](http://www.nickbostrom.com/ethics/genetic.html)
 
 ##The legislation in the European Union
 ###GMOs
 As of now, the European Union law regarding Genetically Modified Organisms aims to ensure tracability, clear labelling and to protect the environement, as well as human and animal health.
-As such, genetically modified food has been authorized for agriculture use, as long as its origin, composition and properties are accurately labelled, in order for livestock farmers, for example to be able to make an informed decision when buying genetically modified food.[^gmolaw]
+As such, genetically modified food has been authorized for agriculture use, as long as its origin, composition and properties are accurately labelled, in order for livestock farmers, for example to be able to make an informed decision when buying genetically modified food[^gmolaw].
 
-By comparison, the vast majority of food in the United States comes from genetically modified animals, and the US law doesn't force them to put a label on products that indicates they come from genetically engineered sources.[^tedprw]
+By comparison, the vast majority of food in the United States comes from genetically modified animals, and the US law doesn't force them to put a label on products that indicates they come from genetically engineered sources[^tedprw].
 
 [^tedprw]:[https://www.ted.com/talks/paul\_root\_wolpe\_it\_s\_time\_to\_question\_bio\_engineering](https://www.ted.com/talks/paul\_root\_wolpe\_it\_s\_time\_to\_question\_bio\_engineering)
 [^gmolaw]:[http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32003R1829&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32003R1829&from=EN)
@@ -123,5 +139,3 @@ By comparison, the vast majority of food in the United States comes from genetic
 ###Research
 
 The EU allows genetic research and manipulations as long as the *scientific validity* and the *clinical validity* criteria are met.
-
-
