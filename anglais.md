@@ -98,9 +98,17 @@ Again, curing SCD is but an example of what can be achieved through genetic mani
 ##Improving mankind
 
 Transhumanism is a movement that aims to take advantage of the advancement of technology, like information technology, genetic engineering and artificial intelligence, to enhance the human condition and the human organism.
+Of course, experiments on human beings is forbidden, so such research has to be conducted on animals.
+Chinese biologists at the Guangzhou Institute of Biomedicine and Health "created" beagles with double the amount of muscle mass, as you can see below.
 
+![Picture of improved dog](DOGS.jpg)
 
-[Au pif](http://www.nature.com/news/chinese-scientists-genetically-modify-human-embryos-1.17378)
+These dogs are currently used for biological and medical purposes could later serve as police dogs, for example.
+Other teams in China also postulated that they could modify dogs genomes in order to enhance their intelligence or cure illnesses.
+According to Lai Xiang, head of the Chinese beagle project, "dogs are very close to humans in terms of metabolic, physiological, and anatomical characteristics.”[^dogs].
+Such research opens the way for a new era for mankind.
+
+[^dogs]: [https://www.technologyreview.com/s/542616/first-gene-edited-dogs-reported-in-china/](https://www.technologyreview.com/s/542616/first-gene-edited-dogs-reported-in-china/)
 
 \pagebreak
 
@@ -121,13 +129,31 @@ All this means we have to draw the line somewhere, and the obvious tool to do th
 
 As discussed before, future parents wanting their child's life to be a little easier may choose genetic enhancements that makes the child taller, for example.
 Indeed, being tall is seen as advantageous and evidence show that taller men earn more money and are more physically able[^social].
+Such behavior would, in practice, divide the population on numerous topics.
+Those who are favorable to genetic modifications, and those who are not.
+Those who benefited from genetic manipulations, and those who did not.
+Even worse, what about people who didn't benefit from such treatment because they couldn't afford it ?
 
+On another topic, how do we define human "normalness" ?
+Suppose, the average human height is 175cm and one is considered tall if they mesure 185cm or more.
+55% of the people on Earth have brown eyes, while 8% have blue eyes.
+If we start messing around with our genes to make people taller and give them a specific eye color, how do we define the average human characteristics ?
+If everyone is taller than 185cm, can they still be considered tall ?
+Indeed, admist everyone around them, they would seem pretty average.
+Do we then keep making people taller and taller just to fit the desire to be taller than everyone else ?
+That would be unwise.
+
+Furthermore, as of today, gene editing technologies are far from ready.[^embryo]
+
+[^embryo]: [http://www.nature.com/news/chinese-scientists-genetically-modify-human-embryos-1.17378](http://www.nature.com/news/chinese-scientists-genetically-modify-human-embryos-1.17378)
 
 [^cancertall]: [https://www.theguardian.com/society/2015/oct/01/taller-people-more-likely-to-get-cancer-say-researchers](https://www.theguardian.com/society/2015/oct/01/taller-people-more-likely-to-get-cancer-say-researchers)
 [^social]: [http://www.nickbostrom.com/ethics/genetic.html](http://www.nickbostrom.com/ethics/genetic.html)
 
 ##The legislation in the European Union
 ###GMOs
+
+GMOs are a good example of what can be achieved through genetic manipulations, and for that, it is interesting to briefly look at the legislation addressing them.
 As of now, the European Union law regarding Genetically Modified Organisms aims to ensure tracability, clear labelling and to protect the environement, as well as human and animal health.
 As such, genetically modified food has been authorized for agriculture use, as long as its origin, composition and properties are accurately labelled, in order for livestock farmers, for example to be able to make an informed decision when buying genetically modified food[^gmolaw].
 
@@ -138,4 +164,20 @@ By comparison, the vast majority of food in the United States comes from genetic
 
 ###Research
 
-The EU allows genetic research and manipulations as long as the *scientific validity* and the *clinical validity* criteria are met.
+Whatever the benefits or the risks, a legislation has to be made in order to determine a legal framework for the use of genetic engineering tools.
+On May 2006, a conference for stakeholders and citizens debating the 25 recommendations of the European Commission Group on the ethical, social and legal applications of genetic testing took place at the European Commission in Brussels.[^EC2004]
+The Expert Group included patients organisations, pharmaceutical industries, scientists, lawyers, ... with the purpose of reaching a consensus regarding genetic testing.
+The following 25 recommendations are organised into 3 chapters addressing a general framework, implementation of genetic testing in healthcare systems and genetics testing as a research tool.
+Some of those recommendations include :
+
+  - public information
+  - protection from discrimination
+  - regulatory framework
+
+The one we're mostly interested about is indeed the regulatory framework.
+Its purpose is to recognise the need for new tests and the importance of safety, clinical validity and reliability as well as passing laws obligating all tests to be conform to the standards before clinical use.
+
+Unfortunately, we found no legislation, or official talks related to the misusage of genetic engineering tools, but it will surely become a front-end topic in the years to come.
+
+[^EC2004]: [https://ec.europa.eu/research/press/2004/pr2204en.cfm](https://ec.europa.eu/research/press/2004/pr2204en.cfm)
+[^25rec]: [http://www.unesco.org.tr/dokumanlar/biyoetik\_komitesi/25%20recommendations%20ec.pdf](http://www.unesco.org.tr/dokumanlar/biyoetik_komitesi/25%20recommendations%20ec.pdf)
